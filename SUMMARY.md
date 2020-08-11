@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [树的算法](README.md)
+* [查找算法](cha-zhao-suan-fa.md)
 
